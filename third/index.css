@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.column {
+    width: 100%;
+    height: 100px;
+    
+}
+.column-1 {
+    box-sizing: border-box;
+    padding: 25px;
+    background-color: lemonchiffon;
+}
+.column-1-div {
+    height: 47px;
+    width: 47px;
+    background-color: lightcoral;
+    
+}
+.column-big {
+    height: 200px;
+    width: 100%;
+    background-color: rgb(236, 246, 255);
+
+}
+.column-2 {
+    padding: 50PX;
+    box-sizing: border-box;
+}
+.column-3 {
+    background-color: lightsalmon;
+    height: 100px;
+    
+}
+.column-4 {
+    background-color: magenta;
+    height: 100px;
+}
+.column-5 {
+    background-color: midnightblue;
+    height: 100px;
+}
