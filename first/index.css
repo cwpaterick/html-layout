@@ -18,9 +18,11 @@ body {
   margin: auto;
  }
  .footer {
-   width: 100%;
+   width: 66%;
    background-color: darkblue;
-   height: 17vh;
+   height: 10vh;
+   margin-left: auto;
+   margin-right: auto;
     }
   
   
