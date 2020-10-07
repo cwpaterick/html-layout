@@ -47,10 +47,13 @@ body {
     width: 50%;
     height: 200px;
     background-color: rgb(212, 178, 178);
-    border: 2px solid lightgray;
+    border: 2px solid burlywood;
     background-color: white;
     padding: 85px;
     margin: 25px auto;
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
 
 }
 .container-3 h1 {

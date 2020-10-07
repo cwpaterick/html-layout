@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 .header {
-    height: 100px;
+    height: 130px;
     width: 100%;
     background-color: rosybrown;
 
@@ -10,13 +10,14 @@ body {
 .box {
     display: inline-block;
     background-color: silver;
-    height: 75px;
-    width: 75px;
+    height: 95px;
+    width: 89px;
     margin: 15px;
 }
 .main {
-    padding: 33px;
+    padding: 35px;
     font-style: italic;
+    height: 300px;
 }
 .collum-1 {
     height: 125px;
@@ -34,7 +35,7 @@ body {
         background-color: rgb(211, 205, 121);
     }
     .collum-4 {
-            height: 200px;
+            height: 125px;
             width: 100%;
             background-color: rgb(19, 146, 114);
     }
